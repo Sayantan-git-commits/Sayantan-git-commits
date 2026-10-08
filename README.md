@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Vector Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,27&height=210&section=header&text=Sayantan%20Chakraborty&fontSize=38&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,14,27&amp;height=220&amp;section=header&amp;text=Sayantan%20Chakraborty&amp;fontSize=38&amp;fontAlignY=36&amp;desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%26%20AI%20Systems&amp;descAlignY=58&amp;descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Subtitle Marquee Animation -->
   <a href="https://github.com/Sayantan-git-commits">
